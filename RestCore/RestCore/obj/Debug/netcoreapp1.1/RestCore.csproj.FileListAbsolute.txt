@@ -1,0 +1,11 @@
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\bin\Debug\netcoreapp1.1\RestCore.deps.json
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\bin\Debug\netcoreapp1.1\RestCore.runtimeconfig.json
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\bin\Debug\netcoreapp1.1\RestCore.runtimeconfig.dev.json
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\bin\Debug\netcoreapp1.1\RestCore.dll
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\bin\Debug\netcoreapp1.1\RestCore.pdb
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\obj\Debug\netcoreapp1.1\RestCore.csprojResolveAssemblyReference.cache
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\obj\Debug\netcoreapp1.1\RestCore.csproj.CoreCompileInputs.cache
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\obj\Debug\netcoreapp1.1\RestCore.AssemblyInfoInputs.cache
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\obj\Debug\netcoreapp1.1\RestCore.AssemblyInfo.cs
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\obj\Debug\netcoreapp1.1\RestCore.dll
+C:\Users\PH\Documents\RestCore\RestCore\RestCore\RestCore\obj\Debug\netcoreapp1.1\RestCore.pdb
